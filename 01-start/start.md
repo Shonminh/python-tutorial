@@ -38,4 +38,4 @@ if __name__ == '__main__':
 ![](pic/run_hello_world.png)
 ![](pic/run_hello_wolrd_success.png)
 
-[下一节](base_operation.md)
+[下一节](math.md)

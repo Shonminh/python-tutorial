@@ -12,3 +12,5 @@ if __name__ == '__main__':
     print(sum([1, 2, 3]))  # return 6
     print(math.sqrt(10))
 ```
+
+[下一节](base_operation.md)
