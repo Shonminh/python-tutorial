@@ -11,4 +11,4 @@ if __name__ == '__main__':
     print(sum([1, 2, 3]))  # return 6
 ```
 
-[下一节](practice.md)
+[下一节](condition.md)
