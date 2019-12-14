@@ -6,4 +6,6 @@
 
 ## 目录
 
-- ### [01-start](01-start/start.md)
+- ### [[01]快速开始](01-start/start.md)
+- ### [[02]变量](02-variable/variable.md)
+- ### [[03]控制语句](03-conditional/if-condition.md)
