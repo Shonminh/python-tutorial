@@ -7,7 +7,7 @@
 > print("hello world")
 
 可以看到终端返回`hello world`字样
-![](start_01.png)
+![](pic/start_01.png)
 
 ## 什么叫IDE？
 - ***IDE***: *Integrated Development Environment*，集成开发环境，用来提供代码编写，代码调试，代码编译等功能，一般是具有图形界面的软件。
@@ -17,10 +17,10 @@
 ### 使用Pycharm运行hello world
 1. 打开pycharm程序
 2. 创建一个新的project
-3. ![](create_new_project.png)
-4. ![](pure_python.png)
-5. ![](create_python_file.png)
-6. ![](type_hello_word.png)
+3. ![](pic/create_new_project.png)
+4. ![](pic/pure_python.png)
+5. ![](pic/create_python_file.png)
+6. ![](pic/type_hello_word.png)
 7. hello world代码如下：
 
 ```python
@@ -31,7 +31,9 @@ if __name__ == '__main__':
     hello_world()
 
 ```
+
 8. 运行程序
-![](begin_run.png)
-![](run_hello_world.png)
-![](run_hello_wolrd_success.png)
+
+![](pic/begin_run.png)
+![](pic/run_hello_world.png)
+![](pic/run_hello_wolrd_success.png)
